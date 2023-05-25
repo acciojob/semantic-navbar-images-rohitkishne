@@ -1,2 +1,16 @@
-
 /* Your CSS Code here. */
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: black;
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.navbar a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+}
